@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publisher": "Pearson",
+      "year": 2008,
+      "email": "publisher@pearson.com",
+      "description": "A handbook of agile software craftsmanship."
+    }
+  ]
+}

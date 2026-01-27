@@ -1,0 +1,8 @@
+body { margin:0; font-family:Arial; }
+.navbar { display:flex; justify-content:space-between; background:#1e90ff; padding:12px; color:white; }
+.navbar a { color:white; margin-left:15px; text-decoration:none; }
+.table-container { max-height:400px; overflow-y:scroll; margin:20px; }
+table { width:100%; border-collapse:collapse; }
+th, td { border:1px solid #ccc; padding:10px; }
+.form { max-width:400px; margin:20px auto; display:flex; flex-direction:column; gap:10px; }
+.details { padding:20px; }
